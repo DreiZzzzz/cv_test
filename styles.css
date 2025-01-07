@@ -1,0 +1,26 @@
+img {
+    width: 300px; /* Adjust the width to your preferred size */
+    height: auto; /* Maintain the aspect ratio */
+    display: block; /* Ensures it behaves like a block-level element */
+    margin-left: 0; /* Aligns the image to the left */
+  }
+
+p.favsub {
+    font-weight: bold;
+}
+
+p.education {
+    font-weight: bold;
+}
+
+p.techstack {
+    font-weight: bold;
+}
+
+p.hobbies {
+    font-weight: bold;
+}
+
+p.college {
+    font-weight: bold;
+}
